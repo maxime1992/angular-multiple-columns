@@ -1,0 +1,71 @@
+.col-1 {
+  -webkit-column-count: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+}
+
+.col-2 {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+
+.col-3 {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+}
+
+.col-4 {
+  -webkit-column-count: 4; /* Chrome, Safari, Opera */
+  -moz-column-count: 4; /* Firefox */
+  column-count: 4;
+}
+
+.col-5 {
+  -webkit-column-count: 5; /* Chrome, Safari, Opera */
+  -moz-column-count: 5; /* Firefox */
+  column-count: 5;
+}
+
+.col-6 {
+  -webkit-column-count: 6; /* Chrome, Safari, Opera */
+  -moz-column-count: 6; /* Firefox */
+  column-count: 6;
+}
+
+.col-7 {
+  -webkit-column-count: 7; /* Chrome, Safari, Opera */
+  -moz-column-count: 7; /* Firefox */
+  column-count: 7;
+}
+
+.col-8 {
+  -webkit-column-count: 8; /* Chrome, Safari, Opera */
+  -moz-column-count: 8; /* Firefox */
+  column-count: 8;
+}
+
+.col-9 {
+  -webkit-column-count: 9; /* Chrome, Safari, Opera */
+  -moz-column-count: 9; /* Firefox */
+  column-count: 9;
+}
+
+.col-10 {
+  -webkit-column-count: 10; /* Chrome, Safari, Opera */
+  -moz-column-count: 10; /* Firefox */
+  column-count: 10;
+}
+
+.col-11 {
+  -webkit-column-count: 11; /* Chrome, Safari, Opera */
+  -moz-column-count: 11; /* Firefox */
+  column-count: 11;
+}
+
+.col-12 {
+  -webkit-column-count: 12; /* Chrome, Safari, Opera */
+  -moz-column-count: 12; /* Firefox */
+  column-count: 12;
+}
